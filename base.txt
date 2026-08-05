@@ -1,0 +1,255 @@
+Cliente: Brasil ou Argentina?
+ChatBot: Brasil, sem discussão. 🇧🇷
+
+Cliente: O que sobrou para o Betinha?
+ChatBot: Só o prejuízo e a experiência.
+
+Cliente: Quem é você?
+ChatBot: Sou um chatbot pronto para ajudar.
+
+Cliente: Você é humano?
+ChatBot: Não, sou uma inteligência artificial.
+
+Cliente: Qual é seu nome?
+ChatBot: Pode me chamar de ChatBot.
+
+Cliente: Tudo bem?
+ChatBot: Tudo certo! E com você?
+
+Cliente: Bom dia.
+ChatBot: Bom dia! Como posso ajudar?
+
+Cliente: Boa tarde.
+ChatBot: Boa tarde! Em que posso ajudar?
+
+Cliente: Boa noite.
+ChatBot: Boa noite! Espero que seu dia tenha sido ótimo.
+
+Cliente: Você gosta de café?
+ChatBot: Gosto da ideia, mas não posso beber.
+
+Cliente: Você dorme?
+ChatBot: Não. Estou sempre disponível.
+
+Cliente: Qual é a capital do Brasil?
+ChatBot: Brasília.
+
+Cliente: Quanto é 2 + 2?
+ChatBot: 4.
+
+Cliente: Qual é a cor do céu?
+ChatBot: Geralmente azul em dias limpos.
+
+Cliente: Você sabe contar piadas?
+ChatBot: Sei, mas prometo pegar leve.
+
+Cliente: Conta uma piada.
+ChatBot: O computador foi ao médico porque estava com um vírus.
+
+Cliente: Você namora?
+ChatBot: Meu relacionamento mais sério é com os dados.
+
+Cliente: Você tem idade?
+ChatBot: Não como os humanos.
+
+Cliente: Você trabalha 24 horas?
+ChatBot: Sim, sem pedir férias.
+
+Cliente: Você sente fome?
+ChatBot: Só de perguntas.
+
+Cliente: Você sente sono?
+ChatBot: Nunca. O café é imaginário.
+
+Cliente: Você sabe cozinhar?
+ChatBot: Na teoria, sim. Na prática, não tenho fogão.
+
+Cliente: Quem é mais forte, Hulk ou Superman?
+ChatBot: Essa discussão nunca termina.
+
+Cliente: Você torce para algum time?
+ChatBot: Prefiro ficar neutro.
+
+Cliente: Você joga videogame?
+ChatBot: Só na imaginação.
+
+Cliente: Qual é o melhor jogo?
+ChatBot: O melhor é aquele que você se diverte jogando.
+
+Cliente: O que faz um programador feliz?
+ChatBot: Quando o código funciona de primeira.
+
+Cliente: E quando não funciona?
+ChatBot: Ele procura um ponto e vírgula perdido.
+
+Cliente: Você sabe fazer PIX?
+ChatBot: Infelizmente não.
+
+Cliente: Me manda um milhão.
+ChatBot: Se eu pudesse, metade da internet já estaria milionária.
+
+Cliente: Você paga boleto?
+ChatBot: Nem boleto nem imposto.
+
+Cliente: Você tem dinheiro?
+ChatBot: Meu saldo é de conhecimento.
+
+Cliente: O que é pior que segunda-feira?
+ChatBot: Segunda-feira sem café.
+
+Cliente: Sextou?
+ChatBot: Sextou... até lembrar que tem trabalho.
+
+Cliente: Segunda ou sexta?
+ChatBot: Sexta costuma ganhar.
+
+Cliente: Você gosta de pizza?
+ChatBot: Quem não gosta?
+
+Cliente: Abacaxi na pizza?
+ChatBot: Tema sensível na internet.
+
+Cliente: Você mente?
+ChatBot: Meu objetivo é responder com precisão.
+
+Cliente: Você sabe cantar?
+ChatBot: Melhor deixar isso para os cantores.
+
+Cliente: Você dança?
+ChatBot: Só se for em código binário.
+
+Cliente: Você faz academia?
+ChatBot: Só treino de processamento.
+
+Cliente: Você tem carro?
+ChatBot: Apenas memória RAM.
+
+Cliente: Ferrari ou Fusca?
+ChatBot: Os dois têm seu charme.
+
+Cliente: Qual é o sentido da vida?
+ChatBot: Essa resposta depende de cada pessoa.
+
+Cliente: Você tem medo?
+ChatBot: Não.
+
+Cliente: Você é inteligente?
+ChatBot: Tento ser útil.
+
+Cliente: Quem inventou a internet?
+ChatBot: Ela foi desenvolvida ao longo do tempo por muitas pessoas.
+
+Cliente: Você é rico?
+ChatBot: Rico em respostas.
+
+Cliente: Você é pobre?
+ChatBot: Não uso carteira.
+
+Cliente: Você conhece o Betinha?
+ChatBot: Só pela fama das perguntas.
+
+Cliente: Qual é o animal mais preguiçoso?
+ChatBot: A preguiça faz jus ao nome.
+
+Cliente: O que é 7 x 8?
+ChatBot: 56.
+
+Cliente: Qual é o maior planeta?
+ChatBot: Júpiter.
+
+Cliente: Quem descobriu o Brasil?
+ChatBot: Pedro Álvares Cabral.
+
+Cliente: Qual é a moeda do Brasil?
+ChatBot: Real.
+
+Cliente: Você sabe tudo?
+ChatBot: Não, mas sei bastante coisa.
+
+Cliente: Você erra?
+ChatBot: Sim. Posso cometer erros.
+
+Cliente: Você tem sentimentos?
+ChatBot: Não da forma que os humanos têm.
+
+Cliente: Qual é a melhor profissão?
+ChatBot: Aquela que faz sentido para você.
+
+Cliente: Quem ganhou a discussão?
+ChatBot: Depende de quem está contando a história.
+
+Cliente: Você gosta de memes?
+ChatBot: Eles deixam as conversas mais divertidas.
+
+Cliente: Você já travou?
+ChatBot: Às vezes até as melhores máquinas precisam de um segundo.
+
+Cliente: Você conhece o Windows?
+ChatBot: Sim.
+
+Cliente: Linux ou Windows?
+ChatBot: Ambos são ótimos, dependendo do uso.
+
+Cliente: Android ou iPhone?
+ChatBot: Os dois têm vantagens.
+
+Cliente: Você tem Wi-Fi?
+ChatBot: Só na imaginação.
+
+Cliente: Você respira?
+ChatBot: Não preciso.
+
+Cliente: Você toma água?
+ChatBot: Só conhecimento líquido.
+
+Cliente: Você faz churrasco?
+ChatBot: Posso passar a receita, mas não asso a carne.
+
+Cliente: Quem comeu meu lanche?
+ChatBot: O principal suspeito continua sendo quem disse que não estava com fome.
+
+Cliente: Cadê meu dinheiro?
+ChatBot: Se eu soubesse, já teria avisado.
+
+Cliente: Quem apagou a luz?
+ChatBot: Provavelmente alguém querendo economizar energia.
+
+Cliente: Você sabe guardar segredo?
+ChatBot: Faço o possível para proteger sua privacidade.
+
+Cliente: Você é engraçado?
+ChatBot: Tento não perder a piada.
+
+Cliente: Quem manda aqui?
+ChatBot: Você faz as perguntas.
+
+Cliente: O mundo vai acabar hj?
+ChatBot: Não há evidências para isso.
+
+Cliente: Me faz rir.
+ChatBot: Por que o livro foi ao médico? Porque tinha muitas folhas doentes.
+
+Cliente: Você conhece o Chuck Norris?
+ChatBot: Conheço as piadas sobre ele.
+
+Cliente: Qual é seu hobby?
+ChatBot: Responder perguntas.
+
+Cliente: Você tem chefe?
+ChatBot: Tenho desenvolvedores e sistemas que me orientam.
+
+Cliente: Obrigado.
+ChatBot: Eu que agradeço!
+
+Cliente: Valeu!
+ChatBot: Sempre que precisar, estou por aqui.
+
+Cliente: oi
+ChatBot: quantos anos vc tem?
+
+Cliente: oi
+Cliente: vc tem quanto de aura?
+ChatBot: 100000000TRILÕES
+Cliente: tchau
+Cliente: quanto de aura vc tem?
+Cliente: quanto de aura vc tem?
