@@ -191,7 +191,7 @@ def buscaResposta(nome, texto):
 
 
             else:
-                print("Sua pergunta e tão burra que nao existe aqui")
+                print("Sua pergunta nao existe aqui.")
                 conhecimento.write(f"\n{texto}")
                 resposta_user = input("O que esperava?\n")
                 conhecimento.write(f"\nChatBot: {resposta_user}")
@@ -204,3 +204,52 @@ def exibeResposta(resposta, nome):
     if resposta == "Vai embora!!!!!!!!!":
         return "Vai embora!!!!!!!!!"
     return "continua"
+
+def exibeResposta_GUI(texto, resposta, nome):
+    return resposta.replace("ChatBot", nome)
+
+def saudacoes_GUI(nome):
+    import random
+    frases = [f"Bom dia! Meu nome é {nome}! Como vai você?","Olá","Vai embora seu betinha sem aura", f"Boa Tarde! Meu nome é {nome}! Como vai você?", f"Boa noite! Meu nome é {nome}! Como vai você?"]
+    return frases[random.randint(0,4)]
+
+def salva_sugestao(sugestao):
+    with open("base.txt", "a", encoding="uft-8") as conhecimento:
+        conhecimento.write(f"ChatBot: {sugestao}\n")
+
+
+def buscaResposta_GUI(texto):
+    with open("base.txt", "a+", encoding="utf-8") as conhecimento:
+        conhecimento.seek(0)
+        while True:
+            viu = conhecimento.readline()
+            if viu != "":
+                if  jaccard(texto, viu) >0.3:
+                    proximalinha = conhecimento.readline()
+                    if "ChatBot: " in proximalinha:
+                        return proximalinha
+            else:
+                conhecimento.write(texto)
+                return"Sua pergunta nao existe aqui."
+
+
+def jaccard(textoUsuario, textoBase):
+    textoUsuario = limpa_frase(textoUsuario)
+    textoBase = limpa_frase(textoBase)
+    if len(textoBase) < 1:
+        return 0
+    else:
+        palavras_em_comum = 0
+        for palavra in textoUsuario.split():
+            if palavra in textoBase.split():
+                palavras_em_comum += 1
+
+        return palavras_em_comum/(len(textoBase.split()))
+
+
+def limpa_frase(frase):
+    tirar = ["?","!","...",".",",","Cliente", "\n"]
+    for t in tirar:
+        frase = frase.replace(t,"")
+    frase = frase.upper()
+    return frase

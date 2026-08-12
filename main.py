@@ -1,6 +1,6 @@
 import chaat as ia
 
-nome_maquina = "Pato"
+nome_maquina = "Pedro"
 ia.saudações(nome_maquina)
 
 while True:

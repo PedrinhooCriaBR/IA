@@ -13,9 +13,6 @@ ChatBot: Não, sou uma inteligência artificial.
 Cliente: Qual é seu nome?
 ChatBot: Pode me chamar de ChatBot.
 
-Cliente: Tudo bem?
-ChatBot: Tudo certo! E com você?
-
 Cliente: Bom dia.
 ChatBot: Bom dia! Como posso ajudar?
 
@@ -25,10 +22,10 @@ ChatBot: Boa tarde! Em que posso ajudar?
 Cliente: Boa noite.
 ChatBot: Boa noite! Espero que seu dia tenha sido ótimo.
 
-Cliente: Você gosta de café?
+Cliente: Você gosta de cafe?
 ChatBot: Gosto da ideia, mas não posso beber.
 
-Cliente: Você dorme?
+Cliente: Voce dorme?
 ChatBot: Não. Estou sempre disponível.
 
 Cliente: Qual é a capital do Brasil?
@@ -251,5 +248,4 @@ Cliente: oi
 Cliente: vc tem quanto de aura?
 ChatBot: 100000000TRILÕES
 Cliente: tchau
-Cliente: quanto de aura vc tem?
 Cliente: quanto de aura vc tem?
